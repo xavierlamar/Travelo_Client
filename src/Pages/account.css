@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.control{
+  width:"100px";
+  margin-right: 260px;
+  margin-left: 260px;
+  padding: "50px";
+}
+
+.inside{
+border: solid;
+}
+.item{
+  border: solid;
+margin-left: 40px;
+padding: 40px;
+}
